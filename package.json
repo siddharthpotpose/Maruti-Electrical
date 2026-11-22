@@ -1,0 +1,7 @@
+{
+  "name": "maruti-electrical",
+  "version": "1.0.0",
+  "description": "Maruti Electrical - e-commerce website (HTML, CSS, Bootstrap, JavaScript) with WhatsApp ordering",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
