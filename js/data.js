@@ -4,7 +4,7 @@
    ============================================================ */
 const SITE = {
   name: 'Maruti Electrical',
-  whatsapp: '918485896373',      // country code 91 + number
+  whatsapp: '918839767636',      // country code 91 + number
   phoneDisplay: '+91 84858 96373',
   freeDeliveryAbove: 999,        // free delivery above this amount (Rs)
   deliveryFee: 49

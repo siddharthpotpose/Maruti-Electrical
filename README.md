@@ -5,7 +5,7 @@ Run: double-click `index.html`, or `node server.js` and open http://localhost:30
 
 ## Edit products / prices / WhatsApp number
 Open `js/data.js`:
-- `SITE.whatsapp` = 918485896373 (all WhatsApp buttons use this)
+- `SITE.whatsapp` = 918839767636 (all WhatsApp buttons use this)
 - `PRODUCTS` = name, price, mrp, images, description, specifications
 - Add product images in `images/products/` and list the file names (without .jpg) in `imgs`.
 
